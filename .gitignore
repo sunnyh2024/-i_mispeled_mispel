@@ -1,0 +1,4 @@
+/backend/credentials.py
+*.swp
+__pycache__/
+*.log
